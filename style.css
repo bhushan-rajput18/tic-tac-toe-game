@@ -54,11 +54,16 @@ h1{
 
 #new-btn {
     padding: 16px;
-
     font-size: 1.50rem;
     background-color: #191913;
     color: white;
     border-radius: 1rem;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 650px;
+
 }
 
 #msg {
